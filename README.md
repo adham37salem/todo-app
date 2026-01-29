@@ -148,4 +148,4 @@ If the backend is not running, the app shows a “Could not load todos” messag
 
 ## License
 
-This project is for learning/demo use. Adjust as needed for your own repo.
+This project is for learning/demo use.
